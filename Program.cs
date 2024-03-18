@@ -5,3 +5,5 @@ Console.WriteLine("Hello, eqwewq!");
 Console.WriteLine("Hello, eqwewq!");
 Console.WriteLine("Hello, eqwewq!");
 Console.WriteLine("Govno");
+
+//dejt s nikolinom
